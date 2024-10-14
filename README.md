@@ -4,4 +4,4 @@ Se generaron 5500 imágenes de galaxias utilizando el software [GalSim](https://
 
 Con el script ImagenesLentesGravitacionales.ipynb se reunen todas las imágenes generadas anteriormente en un solo archivo .py que permita utilizarse en los scripts RedNeuronalOriginal.ipynb y CódigoRedNeuronal.ipynb.
 
-RedNeuronalOriginal.ipynb es el script original presentado en la tesis con el que se consiguió el Modelo74%.keras. CódigoRedNeuronal.ipynb es la continuación de este trabajo en miras de conseguir una herramienta con una mejor precisión.
+RedNeuronalOriginal.ipynb es el script original presentado en la tesis con el que se consiguió el Modelo74%.keras. CódigoRedNeuronal.ipynb es la continuación de este trabajo en miras de conseguir una mejor precisión.
